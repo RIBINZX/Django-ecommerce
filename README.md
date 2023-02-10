@@ -13,11 +13,11 @@ We would love to see how you use this amazing html5 template. You can notify us 
 
 ## Demo site
 
-<a href="https://www.themesine.com/downloads/furn-free-ecommerce-html5-template/" rel="nofollow" target="_blank">Demo</a>
+<a >Django-shopping site</a>
 
 ## Author
 
-<a href="https://www.themesine.com" target="_blank">ThemeSINE</a>
+<a >Ribin</a>
 
 ## Other templates
 
