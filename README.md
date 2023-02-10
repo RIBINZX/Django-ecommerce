@@ -13,15 +13,13 @@ We would love to see how you use this amazing html5 template. You can notify us 
 
 ## Demo site
 
-<a >Django-shopping site</a>
+#<a >Django-shopping site</a>
 
 ## Author
 
-<a >Ribin</a>
+#<a >Ribin</a>
 
-## Other templates
 
-<a href="https://www.themesine.com/downloads/vue-dashloon-vue-js-admin-dashboard/" rel="nofollow" target="_blank">DashLoon vue admin template</a>
 
 ## Credits:
 
