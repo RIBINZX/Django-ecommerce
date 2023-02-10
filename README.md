@@ -13,11 +13,11 @@ We would love to see how you use this amazing html5 template. You can notify us 
 
 ## Demo site
 
-#<a >Django-shopping site</a>
+<a >Django-shopping site</a>
 
 ## Author
 
-#<a >Ribin</a>
+<a >Ribin</a>
 
 
 
